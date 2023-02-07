@@ -1,0 +1,16 @@
+[
+
+
+  {
+    "arroz":{
+    "marca": "x",
+    "categoria":"alimento",
+    "preco": 10},
+    
+    
+    "feijao":{
+    "marca": "x",
+    "categoria": "alimento",
+    "preco": "10"}
+  }
+]
